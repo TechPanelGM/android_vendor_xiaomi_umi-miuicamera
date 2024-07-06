@@ -41,8 +41,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/umi-miuicamera/common/proprietary/vendor/lib64/libion.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libion.so \
     vendor/xiaomi/umi-miuicamera/common/proprietary/vendor/lib64/liblog.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liblog.so \
     vendor/xiaomi/umi-miuicamera/common/proprietary/vendor/lib64/libm.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libm.so \
-    vendor/xiaomi/umi-miuicamera/common/proprietary/vendor/lib64/libmialgo_ie_capture.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmialgo_ie_capture.so
-    vendor/xiaomi/umi-miuicamera/common/proprietary/vendor/lib64/libmialgoengine.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmialgoengine.so
+    vendor/xiaomi/umi-miuicamera/common/proprietary/vendor/lib64/libmialgo_ie_capture.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmialgo_ie_capture.so \
+    vendor/xiaomi/umi-miuicamera/common/proprietary/vendor/lib64/libmialgoengine.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmialgoengine.so \
     vendor/xiaomi/umi-miuicamera/common/proprietary/vendor/lib64/libnativewindow.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libnativewindow.so \
     vendor/xiaomi/umi-miuicamera/common/proprietary/vendor/lib64/librelight_only.so:$(TARGET_COPY_OUT_VENDOR)/lib64/librelight_only.so \
     vendor/xiaomi/umi-miuicamera/common/proprietary/vendor/lib64/libSuperSensorCPU.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libSuperSensorCPU.so \
