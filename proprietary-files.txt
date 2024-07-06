@@ -1,4 +1,4 @@
-# All unpinned blobs below are extracted from V14.0.5.0.TJBMIXM
+.# All unpinned blobs below are extracted from V14.0.5.0.TJBMIXM
 
 # System-files
 -system/priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=Snap,Camera2,GoogleCameraGo,Aperature
@@ -33,19 +33,16 @@ vendor/lib64/libflaw.so
 vendor/lib64/libarcsat.so
 vendor/lib64/libarcmulticamsat.so
 vendor/lib64/libalCFR.so
-#vendor/lib64/libc++.so
-#vendor/lib64/libcutils.so
-#vendor/lib64/libdl.so
-#vendor/lib64/libEGL.so
-#vendor/lib64/libGLESv2.so
-#vendor/lib64/libHalSuperSensorServer.so
-#vendor/lib64/libhardware.so
-#vendor/lib64/libion.so
-#vendor/lib64/liblog.so
-#vendor/lib64/libm.so
-#vendor/lib64/libnativewindow.so
-#vendor/lib64/librelight_only.so
-#vendor/lib64/libSuperSensorCPU.so
-#vendor/lib64/libSuperSensor.so
-#vendor/lib64/libmialgo_ie_capture.so
-
+vendor/lib64/libdl.so
+vendor/lib64/libEGL.so
+vendor/lib64/libGLESv2.so
+vendor/lib64/libHalSuperSensorServer.so
+vendor/lib64/libion.so
+vendor/lib64/liblog.so
+vendor/lib64/libm.so
+vendor/lib64/libmialgo_ie_capture.so
+vendor/lib64/libmialgoengine.so
+vendor/lib64/libnativewindow.so
+vendor/lib64/librelight_only.so
+vendor/lib64/libSuperSensorCPU.so
+vendor/lib64/libSuperSensor.so
